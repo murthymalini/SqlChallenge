@@ -1,9 +1,9 @@
 # SqlChallenge
 
-SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Homework - Employee Database: A Mystery in Two Parts
 sql.png
 
-Background
+## Background
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
@@ -25,7 +25,7 @@ Add your files to this folder.
 
 Push the above changes to GitHub.
 
-Instructions
+# Instructions
 Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
@@ -53,7 +53,7 @@ List all employees in the Sales and Development departments, including their emp
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-Submission
+# Submission
 Create an image file of your ERD.
 
 Create a .sql file of your table schemata.
